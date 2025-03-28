@@ -2,7 +2,7 @@
 ### Jhon Jairo Pastor Tumiri Cuellar
 ### Legajo: 214.198-0
 
-<img align="right" src="jairo.jpg"/>
+<img align="right" src="jairo.jpg" width="75" height="75"/>
 
 - Sobre mí: Me gusta enseñar cuando se temas como la palma de mi mano, ademas me gusta programar y romper un poco las bolas.
 - Lema: Si no te rompo las bolas o no te molesto no me caes bien XD
